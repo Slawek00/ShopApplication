@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sklep_v2</string>
+    <string name="requests">Requests</string>
+    <string name="button_request">button_request</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="add">Dodaj do koszyka</string>
+    <string name="menu">Menu</string>
+    <string name="zap">Zapłać</string>
+    <string name="tw_j_koszyk">Twój koszyk</string>
+    <string name="potwierd_zam_wienie">Potwierdź zamówienie</string>
+    <string name="warto_koszyka">Wartość koszyka</string>
+    <string name="warto_koszyka2">Wartość koszyka:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
