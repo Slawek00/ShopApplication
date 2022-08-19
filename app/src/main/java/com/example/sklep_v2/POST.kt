@@ -18,7 +18,7 @@ class POST {
             .addFormDataPart("Data", jsonArray.toString())
             .build()
         val request = Request.Builder()
-            .url("http://192.168.1.4/get_order.php")
+            .url("Your server IP")
             .post(formBody)
             .build()
 

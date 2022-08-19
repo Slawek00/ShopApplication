@@ -12,7 +12,7 @@ class GET {
     fun sendGET(): ArrayList<Products> {
         val client = OkHttpClient()
         val result: String?
-        val url = URL("http://192.168.1.4/main.php")
+        val url = URL("Your server IP")
         val request = Request.Builder().url(url).build()
         val response = client.newCall(request).execute()
 
